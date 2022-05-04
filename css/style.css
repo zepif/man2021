@@ -1,0 +1,25 @@
+.card {
+    width: 90%;
+    margin-left: 1%;
+}
+form {
+    width: 500px;
+}
+div#footer {
+    font-size: 70%;
+    color: silver;
+    text-align: center;
+    clear: both;
+}
+.card {
+    border-radius: .25rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    border: 0;
+    background-color: #fff;
+    background-clip: border-box;
+    word-wrap: break-word;
+}
+
